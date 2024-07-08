@@ -1,5 +1,5 @@
 # FOODIE
-FOODIE is a MERN stack application for food ordering. It allows users to browse restaurants, view menus, and place orders online.
+FOODIE is a MERN stack application for food ordering. It allows users to  place orders online.
 
 <h1>Prerequisites</h1>
 
@@ -17,6 +17,9 @@ Navigate to the Backend Directory:<br/>
 cd path/to/FOODIE/backend<br/>
 npm install<br/>
 node Index.js<br/>
+
+<h4>Database setup</h4>
+put fooddata2 & foodcategory file in database as name fooddata & foodcategory 
 
 <h3>Frontend Setup</h3>
 Navigate to the Frontend Directory:<br/>
